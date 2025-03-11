@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Blind Miner</string>
+    <string name="switch_language_ru">Язык: Русский</string>
+    <string name="switch_language_en">Language: English</string>
+    <string name="info_idle">idleNaNsense Q-learning app v1.1</string>
+    <string name="info_obstacles_placed">Obstacles have been placed randomly</string>
+    <string name="info_obstacles_cleared">Obstacles have been cleared</string>
+    <string name="info_agent_fell">The agent fell into the pit</string>
+    <string name="info_agent_reached_goal">The agent has reached the goal!</string>
+    <string name="info_agent_moved">Agent moved to %1$d, %2$d</string>
+    <string name="info_episode_ended_pit">Episode ended: The agent fell into the pit</string>
+    <string name="info_episode_ended_goal">Episode ended: The agent has reached the goal!</string>
+    <string name="info_training_finished">The training is finished</string>
+    <string name="button_step">Step</string>
+    <string name="button_episode">Episode</string>
+    <string name="button_train">Train</string>
 </resources>
